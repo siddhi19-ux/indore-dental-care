@@ -1,0 +1,9 @@
+{
+  "installCommand": "cp package.vercel.json package.json && npm install",
+  "buildCommand": "npm run build:vercel",
+  "outputDirectory": "dist",
+  "framework": null,
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
