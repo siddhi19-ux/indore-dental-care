@@ -1,0 +1,79 @@
+uploads = []
+
+[[generated]]
+id = "2CGIBkHIRPq60AblnOb0J"
+uri = "file://artifacts/dental-clinic/public/images/hero.png"
+type = "image"
+title = "Bright modern dental clinic interior"
+
+[[generated]]
+id = "po9J8D8Yo-ML65VY2WUE5"
+uri = "file://artifacts/dental-clinic/public/images/dr-priya.png"
+type = "image"
+title = "Professional female Indian doctor"
+
+[[generated]]
+id = "7QsCynNutTAJNLa3dSnGb"
+uri = "file://artifacts/dental-clinic/public/images/service-implants.png"
+type = "image"
+title = "Dental implant procedure illustration"
+
+[[generated]]
+id = "kBCPw_ILbvMR-UyCtnG2b"
+uri = "file://artifacts/dental-clinic/public/images/service-root-canal.png"
+type = "image"
+title = "Dentist performing root canal"
+
+[[generated]]
+id = "01HJKwwTk0had7nOdLxja"
+uri = "file://artifacts/dental-clinic/public/images/service-pediatric.png"
+type = "image"
+title = "Pediatric dentist with child patient"
+
+[[generated]]
+id = "BXB09vSZG0RnEcrD4_qmy"
+uri = "file://artifacts/dental-clinic/public/images/avatar-1.png"
+type = "image"
+title = "Indian man avatar 1"
+
+[[generated]]
+id = "oqGBxY9ypy4ENnc28eM5y"
+uri = "file://artifacts/dental-clinic/public/images/avatar-2.png"
+type = "image"
+title = "Indian woman avatar 2"
+
+[[generated]]
+id = "o6BUMuhbqN7mhdn2FfmC3"
+uri = "file://artifacts/dental-clinic/public/images/avatar-3.png"
+type = "image"
+title = "Indian man avatar 3"
+
+[[generated]]
+id = "J5Ui_ZJT7xjZG0pbS8pL5"
+uri = "file://artifacts/dental-clinic/public/images/avatar-4.png"
+type = "image"
+title = "Indian woman avatar 4"
+
+[[generated]]
+id = "uOMgufXFI1H7LhbqgwGbJ"
+uri = "file://artifacts/dental-clinic/public/images/avatar-5.png"
+type = "image"
+title = "Indian man avatar 5"
+
+[[outputs]]
+id = "iqRSrXUmqOGdc8Z-8wJsJ"
+uri = "file://artifacts/dental-clinic/public/images/gallery-1.jpg"
+type = "image"
+title = "Bright modern dental clinic interior waiting area"
+
+[[outputs]]
+id = "qFN0M9_xL9EHdwvDQ8_Uh"
+uri = "file://artifacts/dental-clinic/public/images/gallery-2.jpg"
+type = "image"
+title = "Dentist high tech equipment clinic room"
+
+[[outputs]]
+id = "mzZIo7QiCcxED_PKR3oU9"
+uri = "file://artifacts/dental-clinic/public/images/gallery-3.jpg"
+type = "image"
+title = "Dentist consultation room bright"
