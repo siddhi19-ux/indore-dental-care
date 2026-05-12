@@ -1,6 +1,6 @@
 {
   "buildCommand": "pnpm --filter @workspace/dental-clinic run build:vercel",
-  "outputDirectory": "artifacts/dental-clinic/dist/public",
+  "outputDirectory": "artifacts/dental-clinic/dist",
   "installCommand": "pnpm install",
   "framework": null,
   "rewrites": [
